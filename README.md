@@ -12,7 +12,7 @@ There are no known bugs that you may encounter in the webpage yet.We will able t
 ## Technologies Used
 HTML and CSS were used in the webpage as HTML was for the structure and used some simple styling on the CSS.
 ## Support and contact details
-For any concerns ad issues met in the webpage email me in my account austinbrian005@gmail.com.For assistance.
+For any concerns ad issues met in the webpage email me in my account austinbrian005@gmail.com. For assistance.
 ### MIT.
 *license used was MIT which clearly states everything about my license.*
 Copyright (c) {2020} *[Moringa School.]**
